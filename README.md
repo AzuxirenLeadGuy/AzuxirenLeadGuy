@@ -11,4 +11,4 @@ I'm Ashish Jacob Sam, nice to meet you.
 
 ### Development Journey
 
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=AzuxirenLeadGuy)](https://github.com/AzuxirenLeadGuy)
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=AzuxirenLeadGuy&langs_count=6)](https://github.com/AzuxirenLeadGuy)
