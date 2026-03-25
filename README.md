@@ -11,4 +11,6 @@ I'm Ashish Jacob Sam, nice to meet you.
 
 ### Development Journey
 
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=AzuxirenLeadGuy&langs_count=6)](https://github.com/AzuxirenLeadGuy)
+I have a broad range of skills, including system programming (C,C++ and Rust), High-Performance Computing(HPC) with GPU Programming(CUDA), Development of neural networks and Deep Learning with Pytorch and ML.NET, Game Development with Raylib and Monogame, Backend Development with ASP .NET and FastAPI. 
+
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=AzuxirenLeadGuy&langs_count=9)](https://github.com/AzuxirenLeadGuy)
